@@ -1,1 +1,6 @@
-console.log('aaa');
+class App {
+  constructor(){
+    console.log();
+  }
+}
+new App();
